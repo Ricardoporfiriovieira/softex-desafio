@@ -1,0 +1,26 @@
+*{
+    margin: 0px;
+    box-sizing: border-box;
+}
+
+main{
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    padding: 1rem;
+}
+
+section{
+    background-color: red;
+    margin: 1rem;
+    
+}
+
+.section1{
+    width: 25%;
+    
+}
+.section2{
+    flex: 1;
+    background-color: blue;
+}
